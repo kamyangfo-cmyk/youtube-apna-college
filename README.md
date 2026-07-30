@@ -1,6 +1,6 @@
 # youtube-apna-college
 optional
-Author-NAMKAM YANGFO 
+Author-NAMKAM YANGFO  
 #include<iostream>
 int main()
 {
